@@ -1,0 +1,28 @@
+{
+	"webServerHost" : "https://thefamilyrpbot.000webhostapp.com/",
+	"webServerPort" : 21,
+	
+	"statusUpdateTime" : 60,
+	"timezone" : [1, 0],
+	"format24h" : false,
+
+	"instances": [
+		{
+			"discordBotTocken" : "OTMzMTEzOTg4NjU5NjkxNTMw.Yec0Hw.dklPMJX2hec_WuqK3sKS0jmwh14",
+			"serverStatusChanelId" : "955877407498330222",
+			
+			"server_type" : "fivem",
+			"server_host" : "88.214.59.30",
+			"server_port" : "",
+			
+			"server_name" : "test server",
+			"server_logo" : "",
+			"server_color" : "#00ff00",
+			
+			"steam_btn" : true,
+			"minimal" : false,
+			"server_enable_playerlist" : true,
+			"server_enable_graph" : true
+		}
+	]
+}
